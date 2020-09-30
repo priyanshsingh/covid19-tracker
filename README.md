@@ -11,4 +11,5 @@ Note: Bootstrapped with [Create React App](https://github.com/facebook/create-re
 4. Go to localhost:3000 to visit the site.
 
 ## Further documentation to be added.
+[Click Here](https://www.covid19india.org/)
 ### Click <a href="https://www.covid19india.org/" target="_blank">Here</a>
