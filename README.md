@@ -1,6 +1,6 @@
-# Covid-19 Tracker
+# Covid-19 Tracker <img src = "https://github.com/priyanshsingh/covid19-tracker/blob/master/stay%20home.jpeg" height = "100px" width="200px" align = "right"/>
 ## Breif :book:
-Pulls data, static as well as time series and plots Line and Bar Charts on ReactJS.
+Pulls data, static as well as time series and plots Line  :chart_with_upwards_trend: and Bar Charts :bar_chart: on ReactJS.
 Updating latest tweets on Covid soon...
 
 ### Steps to reproduce locally:
